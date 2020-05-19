@@ -20,6 +20,12 @@ Dependances
     Cowboy
 
 Screenshots
-| | | |
+|<image src="screenshots/2. png">|<image src="screenshots/3. png"> |<image src="screenshots/1. png"> |
 |:---:|:---:|:---:|
-|Code|Shell|Results|    
+|Code|Results|Both|    
+
+# [Erlang](https://www.erlang.org/)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Erlang_logo.svg/1200px-Erlang_logo.svg.png)
+
+---
