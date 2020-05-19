@@ -1,4 +1,4 @@
-HTPP SERVER
+HTTP SERVER
 =====
 
 A Simple Erlang http server with just 2 get routes/endpoints
